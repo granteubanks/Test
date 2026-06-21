@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-21T23:22:32.774Z",
-    "modified": "2026-06-21T23:22:32.774Z",
+    "created": "2026-06-21T23:22:44.788Z",
+    "modified": "2026-06-21T23:22:44.788Z",
     "title": "Africa ‘n ‘em",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:22:32.774Z"
+          "redstring:lastViewed": "2026-06-21T23:22:44.788Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:22:32.774Z"
+          "redstring:lastViewed": "2026-06-21T23:22:44.788Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -398,7 +398,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:22:32.774Z"
+          "redstring:lastViewed": "2026-06-21T23:22:44.788Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -461,7 +461,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:22:32.774Z"
+          "redstring:lastViewed": "2026-06-21T23:22:44.788Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -482,6 +482,47 @@
             "@id": "http://www.wikidata.org/entity/Q300656"
           }
         ]
+      },
+      "4fcb2f17-00e7-439a-be58-c63ff70e6e27": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:4fcb2f17-00e7-439a-be58-c63ff70e6e27",
+        "rdfs:label": "Can Have Fun With",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Can Have Fun With",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Can Have Fun With",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-06-21T23:22:44.788Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
       }
     }
   },
@@ -503,8 +544,8 @@
           "61143874-09db-48ec-8319-d479072b0736"
         ],
         "redstring:panOffset": {
-          "x": -16042.730399913567,
-          "y": -15820.582553306911
+          "x": -16064.230399913567,
+          "y": -15817.582553306911
         },
         "redstring:zoomLevel": 0.32146540734341167,
         "redstring:instances": {
@@ -541,8 +582,8 @@
               "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 634.1254338143568,
-              "redstring:yCoordinate": -9.279047349227767,
+              "redstring:xCoordinate": 745.5941409124513,
+              "redstring:yCoordinate": -24.832820432682638,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -562,38 +603,18 @@
             "sourceId": "342f395e-5cca-406c-98f9-f31176ad51c7",
             "destinationId": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
             "typeNodeId": "base-connection-prototype",
-            "directionality": {
-              "arrowsToward": []
-            },
-            "rdfStatements": [
-              {
-                "@type": "Statement",
-                "subject": {
-                  "@id": "urn:uuid:9ed00ca1-0bee-497b-b324-f560d35f6416"
-                },
-                "predicate": {
-                  "@id": "urn:redstring:id:base-connection-prototype"
-                },
-                "object": {
-                  "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
-                }
-              },
-              {
-                "@type": "Statement",
-                "subject": {
-                  "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
-                },
-                "predicate": {
-                  "@id": "urn:redstring:id:base-connection-prototype"
-                },
-                "object": {
-                  "@id": "urn:uuid:9ed00ca1-0bee-497b-b324-f560d35f6416"
-                }
-              }
+            "definitionNodeIds": [
+              "4fcb2f17-00e7-439a-be58-c63ff70e6e27"
             ],
+            "directionality": {
+              "arrowsToward": [
+                "e6376d7b-7f24-486f-ad02-21a5237c27b5"
+              ]
+            },
+            "rdfStatements": null,
             "sourcePrototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
             "destinationPrototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-            "predicatePrototypeId": "base-connection-prototype"
+            "predicatePrototypeId": null
           }
         }
       }
@@ -641,7 +662,8 @@
     ],
     "redstring:savedNodeIds": [
       "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-      "9ed00ca1-0bee-497b-b324-f560d35f6416"
+      "9ed00ca1-0bee-497b-b324-f560d35f6416",
+      "4fcb2f17-00e7-439a-be58-c63ff70e6e27"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true
@@ -656,8 +678,8 @@
           "prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416"
         },
         "e6376d7b-7f24-486f-ad02-21a5237c27b5": {
-          "x": 634.1254338143568,
-          "y": -9.279047349227767,
+          "x": 745.5941409124513,
+          "y": -24.832820432682638,
           "scale": 1,
           "prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
         }
@@ -668,14 +690,14 @@
         "boundingBox": {
           "minX": 154.7949509461614,
           "minY": -33.44941283971275,
-          "maxX": 634.1254338143568,
-          "maxY": -9.279047349227767
+          "maxX": 745.5941409124513,
+          "maxY": -24.832820432682638
         },
         "centroid": {
-          "x": 394.4601923802591,
-          "y": -21.36423009447026
+          "x": 450.19454592930634,
+          "y": -29.141116636197694
         },
-        "computedAt": 1782084152774,
+        "computedAt": 1782084164788,
         "truncated": false
       }
     }
@@ -713,7 +735,7 @@
         }
       ],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Prince [342f395e-5cca-406c-98f9-f31176ad51c7]\n- Africa ‘n ‘em [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (1 total):\n- Prince → Africa ‘n ‘em (Connection)",
-      "computedAt": 1782084152774
+      "computedAt": 1782084164788
     }
   }
 }
