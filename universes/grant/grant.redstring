@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-21T23:19:29.596Z",
-    "modified": "2026-06-21T23:19:29.596Z",
+    "created": "2026-06-21T23:19:44.615Z",
+    "modified": "2026-06-21T23:19:44.615Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:19:29.595Z"
+          "redstring:lastViewed": "2026-06-21T23:19:44.615Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:19:29.595Z"
+          "redstring:lastViewed": "2026-06-21T23:19:44.615Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -398,7 +398,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:19:29.595Z"
+          "redstring:lastViewed": "2026-06-21T23:19:44.615Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -457,7 +457,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:19:29.595Z"
+          "redstring:lastViewed": "2026-06-21T23:19:44.615Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -479,12 +479,14 @@
         "redstring:definingNodeIds": [
           "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
         ],
-        "redstring:edgeIds": [],
+        "redstring:edgeIds": [
+          "61143874-09db-48ec-8319-d479072b0736"
+        ],
         "redstring:panOffset": {
-          "x": -12041.216754761439,
-          "y": -11875.870547479495
+          "x": -24024.243495793864,
+          "y": -23931.990091557476
         },
-        "redstring:zoomLevel": 0.243084044604967,
+        "redstring:zoomLevel": 0.48274453703476067,
         "redstring:instances": {
           "342f395e-5cca-406c-98f9-f31176ad51c7": {
             "@type": "redstring:Instance",
@@ -519,8 +521,8 @@
               "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -29.6082493577982,
-              "redstring:yCoordinate": 447.77701683842315,
+              "redstring:xCoordinate": 873.3676389576955,
+              "redstring:yCoordinate": -49.34184948420443,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -534,7 +536,46 @@
           "redstring:expanded": true,
           "redstring:activeInContext": true
         },
-        "redstring:edges": {}
+        "redstring:edges": {
+          "61143874-09db-48ec-8319-d479072b0736": {
+            "id": "61143874-09db-48ec-8319-d479072b0736",
+            "sourceId": "342f395e-5cca-406c-98f9-f31176ad51c7",
+            "destinationId": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
+            "typeNodeId": "base-connection-prototype",
+            "directionality": {
+              "arrowsToward": []
+            },
+            "rdfStatements": [
+              {
+                "@type": "Statement",
+                "subject": {
+                  "@id": "urn:uuid:9ed00ca1-0bee-497b-b324-f560d35f6416"
+                },
+                "predicate": {
+                  "@id": "urn:redstring:id:base-connection-prototype"
+                },
+                "object": {
+                  "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
+                }
+              },
+              {
+                "@type": "Statement",
+                "subject": {
+                  "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
+                },
+                "predicate": {
+                  "@id": "urn:redstring:id:base-connection-prototype"
+                },
+                "object": {
+                  "@id": "urn:uuid:9ed00ca1-0bee-497b-b324-f560d35f6416"
+                }
+              }
+            ],
+            "sourcePrototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
+            "destinationPrototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
+            "predicatePrototypeId": "base-connection-prototype"
+          }
+        }
       }
     }
   },
@@ -583,26 +624,26 @@
           "prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416"
         },
         "e6376d7b-7f24-486f-ad02-21a5237c27b5": {
-          "x": -29.6082493577982,
-          "y": 447.77701683842315,
+          "x": 873.3676389576955,
+          "y": -49.34184948420443,
           "scale": 1,
           "prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
         }
       },
       "metadata": {
         "nodeCount": 2,
-        "edgeCount": 0,
+        "edgeCount": 1,
         "boundingBox": {
-          "minX": -29.6082493577982,
+          "minX": -21.83333333333576,
           "minY": -67.5,
-          "maxX": -21.83333333333576,
-          "maxY": 447.77701683842315
+          "maxX": 873.3676389576955,
+          "maxY": -49.34184948420443
         },
         "centroid": {
-          "x": -25.72079134556698,
-          "y": 190.13850841921158
+          "x": 425.76715281217986,
+          "y": -58.420924742102216
         },
-        "computedAt": 1782083969595,
+        "computedAt": 1782083984615,
         "truncated": false
       }
     }
@@ -613,10 +654,10 @@
       "name": "New Thing",
       "description": "",
       "nodeCount": 2,
-      "edgeCount": 0,
-      "density": 0,
-      "quality": "disconnected",
-      "score": 5,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
       "nodes": [
         {
           "id": "342f395e-5cca-406c-98f9-f31176ad51c7",
@@ -629,9 +670,18 @@
           "name": "New Thing"
         }
       ],
-      "edges": [],
-      "text": "Graph: New Thing (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Aa [342f395e-5cca-406c-98f9-f31176ad51c7]\n- New Thing [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (0 total):",
-      "computedAt": 1782083969596
+      "edges": [
+        {
+          "id": "61143874-09db-48ec-8319-d479072b0736",
+          "from": "342f395e-5cca-406c-98f9-f31176ad51c7",
+          "to": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
+          "type": "Connection",
+          "sourceLabel": "Aa",
+          "targetLabel": "New Thing"
+        }
+      ],
+      "text": "Graph: New Thing (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Aa [342f395e-5cca-406c-98f9-f31176ad51c7]\n- New Thing [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (1 total):\n- Aa → New Thing (Connection)",
+      "computedAt": 1782083984615
     }
   }
 }
