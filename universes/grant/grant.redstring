@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:13:08.031Z",
-    "modified": "2026-06-23T05:13:08.031Z",
+    "created": "2026-06-23T05:13:20.046Z",
+    "modified": "2026-06-23T05:13:20.046Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:13:08.030Z"
+          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:08.030Z"
+          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:08.031Z"
+          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:08.031Z"
+          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -519,7 +519,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:08.031Z"
+          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -565,10 +565,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49803.5,
-          "y": -49667.5
+          "x": -28695.74618858688,
+          "y": -28383.3285955947
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.576049419646509,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -636,7 +636,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191588031,
+        "computedAt": 1782191600046,
         "truncated": false
       }
     },
@@ -647,7 +647,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191588031,
+        "computedAt": 1782191600046,
         "truncated": false
       }
     }
@@ -665,7 +665,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191588031
+      "computedAt": 1782191600046
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
@@ -679,7 +679,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191588031
+      "computedAt": 1782191600046
     }
   }
 }
