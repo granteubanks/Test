@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:12:48.793Z",
-    "modified": "2026-06-23T05:12:48.793Z",
+    "created": "2026-06-23T05:13:02.023Z",
+    "modified": "2026-06-23T05:13:02.023Z",
     "title": "Africa ‘n ‘em",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:12:48.792Z"
+          "redstring:lastViewed": "2026-06-23T05:13:02.022Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:12:48.792Z"
+          "redstring:lastViewed": "2026-06-23T05:13:02.023Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:48.792Z"
+          "redstring:lastViewed": "2026-06-23T05:13:02.023Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -460,7 +460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:48.792Z"
+          "redstring:lastViewed": "2026-06-23T05:13:02.023Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -516,7 +516,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:48.792Z"
+          "redstring:lastViewed": "2026-06-23T05:13:02.023Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -538,82 +538,19 @@
         "redstring:definingNodeIds": [
           "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
         ],
-        "redstring:edgeIds": [
-          "61143874-09db-48ec-8319-d479072b0736"
-        ],
+        "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -17744.080978683905,
-          "y": -17200.254859803903
+          "x": -23776.093930881972,
+          "y": -23143.72936930467
         },
-        "redstring:zoomLevel": 0.35271498157327846,
-        "redstring:instances": {
-          "342f395e-5cca-406c-98f9-f31176ad51c7": {
-            "@type": "redstring:Instance",
-            "@id": "urn:uuid:342f395e-5cca-406c-98f9-f31176ad51c7",
-            "rdf:type": {
-              "@id": "urn:uuid:9ed00ca1-0bee-497b-b324-f560d35f6416"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 401.29247698824474,
-              "redstring:yCoordinate": -639.3062113896085,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
-            "redstring:isGroupAnchor": false,
-            "redstring:anchorForGroupId": null
-          },
-          "e6376d7b-7f24-486f-ad02-21a5237c27b5": {
-            "@type": "redstring:Instance",
-            "@id": "urn:uuid:e6376d7b-7f24-486f-ad02-21a5237c27b5",
-            "rdf:type": {
-              "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 967.2945027299153,
-              "redstring:yCoordinate": -512.2066697040646,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-            "redstring:isGroupAnchor": false,
-            "redstring:anchorForGroupId": null
-          }
-        },
+        "redstring:zoomLevel": 0.47209747528084817,
+        "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
           "redstring:activeInContext": true
         },
-        "redstring:edges": {
-          "61143874-09db-48ec-8319-d479072b0736": {
-            "id": "61143874-09db-48ec-8319-d479072b0736",
-            "sourceId": "342f395e-5cca-406c-98f9-f31176ad51c7",
-            "destinationId": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
-            "typeNodeId": "base-connection-prototype",
-            "definitionNodeIds": [
-              "4fcb2f17-00e7-439a-be58-c63ff70e6e27"
-            ],
-            "directionality": {
-              "arrowsToward": [
-                "e6376d7b-7f24-486f-ad02-21a5237c27b5"
-              ]
-            },
-            "rdfStatements": null,
-            "sourcePrototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
-            "destinationPrototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
-          }
-        }
+        "redstring:edges": {}
       }
     }
   },
@@ -667,34 +604,13 @@
   },
   "graphLayouts": {
     "bb587d5e-786c-4855-b137-f4fe8ecf9816": {
-      "nodes": {
-        "342f395e-5cca-406c-98f9-f31176ad51c7": {
-          "x": 401.29247698824474,
-          "y": -639.3062113896085,
-          "scale": 1,
-          "prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416"
-        },
-        "e6376d7b-7f24-486f-ad02-21a5237c27b5": {
-          "x": 967.2945027299153,
-          "y": -512.2066697040646,
-          "scale": 1,
-          "prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
-        }
-      },
+      "nodes": {},
       "metadata": {
-        "nodeCount": 2,
-        "edgeCount": 1,
-        "boundingBox": {
-          "minX": 401.29247698824474,
-          "minY": -639.3062113896085,
-          "maxX": 967.2945027299153,
-          "maxY": -512.2066697040646
-        },
-        "centroid": {
-          "x": 684.29348985908,
-          "y": -575.7564405468365
-        },
-        "computedAt": 1782191568793,
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1782191582023,
         "truncated": false
       }
     }
@@ -704,35 +620,15 @@
       "id": "bb587d5e-786c-4855-b137-f4fe8ecf9816",
       "name": "Africa ‘n ‘em",
       "description": "",
-      "nodeCount": 2,
-      "edgeCount": 1,
-      "density": 0.5,
-      "quality": "dense",
-      "score": 44,
-      "nodes": [
-        {
-          "id": "342f395e-5cca-406c-98f9-f31176ad51c7",
-          "prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
-          "name": "Prince"
-        },
-        {
-          "id": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
-          "prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-          "name": "Africa ‘n ‘em"
-        }
-      ],
-      "edges": [
-        {
-          "id": "61143874-09db-48ec-8319-d479072b0736",
-          "from": "342f395e-5cca-406c-98f9-f31176ad51c7",
-          "to": "e6376d7b-7f24-486f-ad02-21a5237c27b5",
-          "type": "Connection",
-          "sourceLabel": "Prince",
-          "targetLabel": "Africa ‘n ‘em"
-        }
-      ],
-      "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Prince [342f395e-5cca-406c-98f9-f31176ad51c7]\n- Africa ‘n ‘em [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (1 total):\n- Prince → Africa ‘n ‘em (Connection)",
-      "computedAt": 1782191568793
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1782191582023
     }
   }
 }
