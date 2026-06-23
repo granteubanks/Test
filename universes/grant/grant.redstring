@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:13:20.046Z",
-    "modified": "2026-06-23T05:13:20.046Z",
+    "created": "2026-06-23T05:13:29.059Z",
+    "modified": "2026-06-23T05:13:29.059Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -519,11 +519,70 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:20.046Z"
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
         "redstring:semanticMetadata": null
+      },
+      "fc7a5771-e30e-4fb2-993c-bf783c4142d0": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+        "rdfs:label": "Jimmy Johns",
+        "rdfs:comment": "Jimmy John's Franchise, LLC, commonly referred to as Jimmy John's, is an American multinational sandwich chain, headquartered in Champaign, Illinois. The business was founded by Jimmy John Liautaud in 1983. After Liautaud graduated from high school, his father gave him a choice to either join the military or start a business. Liautaud decided to start a hot dog business, which changed to sandwiches due to costs.",
+        "skos:prefLabel": "Jimmy Johns",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Jimmy Johns",
+        "description": "Jimmy John's Franchise, LLC, commonly referred to as Jimmy John's, is an American multinational sandwich chain, headquartered in Champaign, Illinois. The business was founded by Jimmy John Liautaud in 1983. After Liautaud graduated from high school, his father gave him a choice to either join the military or start a business. Liautaud decided to start a hot dog business, which changed to sandwiches due to costs.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Jimmy_John's"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:base-thing-prototype"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000",
+          "redstring:imageSrc": null,
+          "redstring:thumbnailSrc": null,
+          "redstring:imageAspectRatio": 1
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-06-23T05:13:29.059Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "wikipediaThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Jimmy_John%27s_%28logo%29.svg/960px-Jimmy_John%27s_%28logo%29.svg.png",
+          "imageAspectRatio": 1
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Jimmy_John's"
+        ],
+        "skos:exactMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Jimmy_John's"
+          }
+        ]
       }
     }
   },
@@ -569,7 +628,29 @@
           "y": -28383.3285955947
         },
         "redstring:zoomLevel": 0.576049419646509,
-        "redstring:instances": {},
+        "redstring:instances": {
+          "98aac744-1038-4a3d-af25-50810100f605": {
+            "@type": "redstring:Instance",
+            "@id": "urn:uuid:98aac744-1038-4a3d-af25-50810100f605",
+            "rdf:type": {
+              "@id": "urn:uuid:fc7a5771-e30e-4fb2-993c-bf783c4142d0"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:uuid:3ae7173f-ee8d-48a3-bb2a-c809aa58f374"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 113.27770946104282,
+              "redstring:yCoordinate": -313.53477361469413,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -610,20 +691,27 @@
         "type": "node",
         "nodeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
         "title": "Africa ‘n ‘em",
-        "isActive": true
+        "isActive": false
       },
       {
         "type": "node",
         "nodeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
         "title": "Prince",
         "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+        "title": "Jimmy Johns",
+        "isActive": true
       }
     ],
     "redstring:savedNodeIds": [
       "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
       "9ed00ca1-0bee-497b-b324-f560d35f6416",
       "4fcb2f17-00e7-439a-be58-c63ff70e6e27",
-      "1a16ab48-461b-4749-b073-0bedc71d5b66"
+      "1a16ab48-461b-4749-b073-0bedc71d5b66",
+      "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true
@@ -636,18 +724,33 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191600046,
+        "computedAt": 1782191609059,
         "truncated": false
       }
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
-      "nodes": {},
+      "nodes": {
+        "98aac744-1038-4a3d-af25-50810100f605": {
+          "x": 113.27770946104282,
+          "y": -313.53477361469413,
+          "scale": 1,
+          "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
+        }
+      },
       "metadata": {
-        "nodeCount": 0,
+        "nodeCount": 1,
         "edgeCount": 0,
-        "boundingBox": null,
-        "centroid": null,
-        "computedAt": 1782191600046,
+        "boundingBox": {
+          "minX": 113.27770946104282,
+          "minY": -313.53477361469413,
+          "maxX": 113.27770946104282,
+          "maxY": -313.53477361469413
+        },
+        "centroid": {
+          "x": 113.27770946104282,
+          "y": -313.53477361469413
+        },
+        "computedAt": 1782191609059,
         "truncated": false
       }
     }
@@ -665,21 +768,27 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191600046
+      "computedAt": 1782191609059
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 0,
+      "nodeCount": 1,
       "edgeCount": 0,
       "density": 0,
-      "quality": "empty",
-      "score": 0,
-      "nodes": [],
+      "quality": "single",
+      "score": 10,
+      "nodes": [
+        {
+          "id": "98aac744-1038-4a3d-af25-50810100f605",
+          "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+          "name": "Jimmy Johns"
+        }
+      ],
       "edges": [],
-      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191600046
+      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (1 total):\n- Jimmy Johns [98aac744-1038-4a3d-af25-50810100f605]\n\nEdges (0 total):",
+      "computedAt": 1782191609059
     }
   }
 }
