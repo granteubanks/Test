@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:12:22.986Z",
-    "modified": "2026-06-23T05:12:22.986Z",
+    "created": "2026-06-23T05:12:44.000Z",
+    "modified": "2026-06-23T05:12:44.000Z",
     "title": "Africa ‘n ‘em",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
+          "redstring:lastViewed": "2026-06-23T05:12:44.000Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
+          "redstring:lastViewed": "2026-06-23T05:12:44.000Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
+          "redstring:lastViewed": "2026-06-23T05:12:44.000Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -460,7 +460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
+          "redstring:lastViewed": "2026-06-23T05:12:44.000Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -516,7 +516,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
+          "redstring:lastViewed": "2026-06-23T05:12:44.000Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -542,10 +542,10 @@
           "61143874-09db-48ec-8319-d479072b0736"
         ],
         "redstring:panOffset": {
-          "x": -19849.816574545657,
-          "y": -19627.63176708511
+          "x": -18433.506942411237,
+          "y": -17908.976077478586
         },
-        "redstring:zoomLevel": 0.3961443681041237,
+        "redstring:zoomLevel": 0.36742573306506743,
         "redstring:instances": {
           "342f395e-5cca-406c-98f9-f31176ad51c7": {
             "@type": "redstring:Instance",
@@ -559,8 +559,8 @@
               "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 130.04630559295038,
-              "redstring:yCoordinate": -10.590163388587825,
+              "redstring:xCoordinate": 401.29247698824474,
+              "redstring:yCoordinate": -639.3062113896085,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -580,8 +580,8 @@
               "@id": "urn:uuid:bb587d5e-786c-4855-b137-f4fe8ecf9816"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 714.6261028432215,
-              "redstring:yCoordinate": -10.948993114063342,
+              "redstring:xCoordinate": 967.2945027299153,
+              "redstring:yCoordinate": -512.2066697040646,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -669,14 +669,14 @@
     "bb587d5e-786c-4855-b137-f4fe8ecf9816": {
       "nodes": {
         "342f395e-5cca-406c-98f9-f31176ad51c7": {
-          "x": 130.04630559295038,
-          "y": -10.590163388587825,
+          "x": 401.29247698824474,
+          "y": -639.3062113896085,
           "scale": 1,
           "prototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416"
         },
         "e6376d7b-7f24-486f-ad02-21a5237c27b5": {
-          "x": 714.6261028432215,
-          "y": -10.948993114063342,
+          "x": 967.2945027299153,
+          "y": -512.2066697040646,
           "scale": 1,
           "prototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
         }
@@ -685,16 +685,16 @@
         "nodeCount": 2,
         "edgeCount": 1,
         "boundingBox": {
-          "minX": 130.04630559295038,
-          "minY": -10.948993114063342,
-          "maxX": 714.6261028432215,
-          "maxY": -10.590163388587825
+          "minX": 401.29247698824474,
+          "minY": -639.3062113896085,
+          "maxX": 967.2945027299153,
+          "maxY": -512.2066697040646
         },
         "centroid": {
-          "x": 422.3362042180859,
-          "y": -10.769578251325584
+          "x": 684.29348985908,
+          "y": -575.7564405468365
         },
-        "computedAt": 1782191542986,
+        "computedAt": 1782191564000,
         "truncated": false
       }
     }
@@ -732,7 +732,7 @@
         }
       ],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Prince [342f395e-5cca-406c-98f9-f31176ad51c7]\n- Africa ‘n ‘em [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (1 total):\n- Prince → Africa ‘n ‘em (Connection)",
-      "computedAt": 1782191542986
+      "computedAt": 1782191564000
     }
   }
 }
