@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:13:35.067Z",
-    "modified": "2026-06-23T05:13:35.067Z",
+    "created": "2026-06-23T05:15:08.193Z",
+    "modified": "2026-06-23T05:15:08.193Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:13:35.066Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:35.066Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:35.067Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:35.067Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -519,7 +519,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:35.067Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -567,7 +567,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:13:35.067Z"
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -583,6 +583,49 @@
             "@id": "https://en.wikipedia.org/wiki/Jimmy_John's"
           }
         ]
+      },
+      "09477467-ff71-43e5-9bc8-49b4a2cee46e": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:09477467-ff71-43e5-9bc8-49b4a2cee46e",
+        "rdfs:label": "Jersey Mike’s",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Jersey Mike’s",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Jersey Mike’s",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:base-thing-prototype"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
       }
     }
   },
@@ -624,10 +667,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -30223.48947300535,
-          "y": -29901.189735223797
+          "x": -17702.827636380836,
+          "y": -17912.41417407653
         },
-        "redstring:zoomLevel": 0.6049134868424869,
+        "redstring:zoomLevel": 0.36206021784735115,
         "redstring:instances": {
           "98aac744-1038-4a3d-af25-50810100f605": {
             "@type": "redstring:Instance",
@@ -647,6 +690,27 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "6377c480-2813-4fc4-8fee-1824577f9760": {
+            "@type": "redstring:Instance",
+            "@id": "urn:uuid:6377c480-2813-4fc4-8fee-1824577f9760",
+            "rdf:type": {
+              "@id": "urn:uuid:09477467-ff71-43e5-9bc8-49b4a2cee46e"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:uuid:3ae7173f-ee8d-48a3-bb2a-c809aa58f374"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -595.2829003819031,
+              "redstring:yCoordinate": 575.3194097243395,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e",
             "redstring:isGroupAnchor": false,
             "redstring:anchorForGroupId": null
           }
@@ -689,18 +753,6 @@
       },
       {
         "type": "node",
-        "nodeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-        "title": "Africa ‘n ‘em",
-        "isActive": false
-      },
-      {
-        "type": "node",
-        "nodeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
-        "title": "Prince",
-        "isActive": false
-      },
-      {
-        "type": "node",
         "nodeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
         "title": "Jimmy Johns",
         "isActive": true
@@ -711,7 +763,8 @@
       "9ed00ca1-0bee-497b-b324-f560d35f6416",
       "4fcb2f17-00e7-439a-be58-c63ff70e6e27",
       "1a16ab48-461b-4749-b073-0bedc71d5b66",
-      "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
+      "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
+      "09477467-ff71-43e5-9bc8-49b4a2cee46e"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true
@@ -724,7 +777,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191615067,
+        "computedAt": 1782191708193,
         "truncated": false
       }
     },
@@ -735,22 +788,28 @@
           "y": -251.54243782508274,
           "scale": 1,
           "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
+        },
+        "6377c480-2813-4fc4-8fee-1824577f9760": {
+          "x": -595.2829003819031,
+          "y": 575.3194097243395,
+          "scale": 1,
+          "prototypeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e"
         }
       },
       "metadata": {
-        "nodeCount": 1,
+        "nodeCount": 2,
         "edgeCount": 0,
         "boundingBox": {
           "minX": -794.9249051719453,
           "minY": -251.54243782508274,
-          "maxX": -794.9249051719453,
-          "maxY": -251.54243782508274
+          "maxX": -595.2829003819031,
+          "maxY": 575.3194097243395
         },
         "centroid": {
-          "x": -794.9249051719453,
-          "y": -251.54243782508274
+          "x": -695.1039027769242,
+          "y": 161.88848594962838
         },
-        "computedAt": 1782191615067,
+        "computedAt": 1782191708193,
         "truncated": false
       }
     }
@@ -768,27 +827,32 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191615067
+      "computedAt": 1782191708193
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 1,
+      "nodeCount": 2,
       "edgeCount": 0,
       "density": 0,
-      "quality": "single",
-      "score": 10,
+      "quality": "disconnected",
+      "score": 5,
       "nodes": [
         {
           "id": "98aac744-1038-4a3d-af25-50810100f605",
           "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
           "name": "Jimmy Johns"
+        },
+        {
+          "id": "6377c480-2813-4fc4-8fee-1824577f9760",
+          "prototypeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e",
+          "name": "Jersey Mike’s"
         }
       ],
       "edges": [],
-      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (1 total):\n- Jimmy Johns [98aac744-1038-4a3d-af25-50810100f605]\n\nEdges (0 total):",
-      "computedAt": 1782191615067
+      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy Johns [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (0 total):",
+      "computedAt": 1782191708193
     }
   }
 }
