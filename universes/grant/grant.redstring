@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:15:08.193Z",
-    "modified": "2026-06-23T05:15:08.193Z",
+    "created": "2026-06-23T05:15:20.210Z",
+    "modified": "2026-06-23T05:15:20.210Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -519,7 +519,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -533,13 +533,13 @@
           "skos:Concept"
         ],
         "@id": "urn:uuid:fc7a5771-e30e-4fb2-993c-bf783c4142d0",
-        "rdfs:label": "Jimmy Johns",
+        "rdfs:label": "Jimmy John’s",
         "rdfs:comment": "Jimmy John's Franchise, LLC, commonly referred to as Jimmy John's, is an American multinational sandwich chain, headquartered in Champaign, Illinois. The business was founded by Jimmy John Liautaud in 1983. After Liautaud graduated from high school, his father gave him a choice to either join the military or start a business. Liautaud decided to start a hot dog business, which changed to sandwiches due to costs.",
-        "skos:prefLabel": "Jimmy Johns",
+        "skos:prefLabel": "Jimmy John’s",
         "skos:inScheme": {
           "@id": "urn:redstring:scheme"
         },
-        "name": "Jimmy Johns",
+        "name": "Jimmy John’s",
         "description": "Jimmy John's Franchise, LLC, commonly referred to as Jimmy John's, is an American multinational sandwich chain, headquartered in Champaign, Illinois. The business was founded by Jimmy John Liautaud in 1983. After Liautaud graduated from high school, his father gave him a choice to either join the military or start a business. Liautaud decided to start a hot dog business, which changed to sandwiches due to costs.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/Jimmy_John's"
@@ -567,7 +567,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -593,14 +593,16 @@
         ],
         "@id": "urn:uuid:09477467-ff71-43e5-9bc8-49b4a2cee46e",
         "rdfs:label": "Jersey Mike’s",
-        "rdfs:comment": "",
+        "rdfs:comment": "A Sub Above, LLC, doing business as Jersey Mike's Subs, is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,500 locations, with locations in the United States, Canada, and elsewhere.",
         "skos:prefLabel": "Jersey Mike’s",
         "skos:inScheme": {
           "@id": "urn:redstring:scheme"
         },
         "name": "Jersey Mike’s",
-        "description": "",
-        "rdfs:seeAlso": [],
+        "description": "A Sub Above, LLC, doing business as Jersey Mike's Subs, is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,500 locations, with locations in the United States, Canada, and elsewhere.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Jersey%20Mike's%20Subs"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
@@ -614,18 +616,32 @@
           "redstring:spatialScale": 1
         },
         "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
+          "redstring:cognitiveColor": "#8B0000",
+          "redstring:imageSrc": null,
+          "redstring:thumbnailSrc": null,
+          "redstring:imageAspectRatio": 0.728
         },
         "redstring:definitionGraphIds": [],
         "redstring:typeNodeId": "base-thing-prototype",
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:15:08.193Z"
+          "redstring:lastViewed": "2026-06-23T05:15:20.209Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
-        "redstring:semanticMetadata": null
+        "redstring:semanticMetadata": {
+          "wikipediaThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jersey_Mike%27s_logo.svg/500px-Jersey_Mike%27s_logo.svg.png",
+          "imageAspectRatio": 0.728
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Jersey%20Mike's%20Subs"
+        ],
+        "skos:exactMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Jersey%20Mike's%20Subs"
+          }
+        ]
       }
     }
   },
@@ -754,7 +770,13 @@
       {
         "type": "node",
         "nodeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
-        "title": "Jimmy Johns",
+        "title": "Jimmy John’s",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e",
+        "title": "Jersey Mike’s",
         "isActive": true
       }
     ],
@@ -777,7 +799,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191708193,
+        "computedAt": 1782191720209,
         "truncated": false
       }
     },
@@ -809,7 +831,7 @@
           "x": -695.1039027769242,
           "y": 161.88848594962838
         },
-        "computedAt": 1782191708193,
+        "computedAt": 1782191720209,
         "truncated": false
       }
     }
@@ -827,7 +849,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191708193
+      "computedAt": 1782191720209
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
@@ -842,7 +864,7 @@
         {
           "id": "98aac744-1038-4a3d-af25-50810100f605",
           "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
-          "name": "Jimmy Johns"
+          "name": "Jimmy John’s"
         },
         {
           "id": "6377c480-2813-4fc4-8fee-1824577f9760",
@@ -851,8 +873,8 @@
         }
       ],
       "edges": [],
-      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy Johns [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (0 total):",
-      "computedAt": 1782191708193
+      "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy John’s [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (0 total):",
+      "computedAt": 1782191720210
     }
   }
 }
