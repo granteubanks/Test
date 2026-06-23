@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-21T23:24:26.095Z",
-    "modified": "2026-06-21T23:24:26.095Z",
+    "created": "2026-06-23T05:12:22.986Z",
+    "modified": "2026-06-23T05:12:22.986Z",
     "title": "Africa ‘n ‘em",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:24:26.095Z"
+          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-21T23:24:26.095Z"
+          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -394,11 +394,10 @@
         "redstring:definitionGraphIds": [
           "bb587d5e-786c-4855-b137-f4fe8ecf9816"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:24:26.095Z"
+          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -461,7 +460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:24:26.095Z"
+          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -514,11 +513,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-21T23:24:26.095Z"
+          "redstring:lastViewed": "2026-06-23T05:12:22.986Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -613,8 +611,7 @@
             },
             "rdfStatements": null,
             "sourcePrototypeId": "9ed00ca1-0bee-497b-b324-f560d35f6416",
-            "destinationPrototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
-            "predicatePrototypeId": null
+            "destinationPrototypeId": "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
           }
         }
       }
@@ -697,7 +694,7 @@
           "x": 422.3362042180859,
           "y": -10.769578251325584
         },
-        "computedAt": 1782084266095,
+        "computedAt": 1782191542986,
         "truncated": false
       }
     }
@@ -735,7 +732,7 @@
         }
       ],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (2 total):\n- Prince [342f395e-5cca-406c-98f9-f31176ad51c7]\n- Africa ‘n ‘em [e6376d7b-7f24-486f-ad02-21a5237c27b5]\n\nEdges (1 total):\n- Prince → Africa ‘n ‘em (Connection)",
-      "computedAt": 1782084266095
+      "computedAt": 1782191542986
     }
   }
 }
