@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:16:32.726Z",
-    "modified": "2026-06-23T05:16:32.726Z",
+    "created": "2026-06-23T05:17:04.812Z",
+    "modified": "2026-06-23T05:17:04.812Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:16:32.724Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -519,7 +519,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -567,7 +567,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -626,7 +626,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -678,7 +678,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:16:32.725Z"
+          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -726,10 +726,10 @@
           "c122c179-7235-4a1a-88ee-6893488222e3"
         ],
         "redstring:panOffset": {
-          "x": -10672.925309221862,
-          "y": -10657.454500230466
+          "x": -24103.920272520587,
+          "y": -24252.43743608332
         },
-        "redstring:zoomLevel": 0.22059924627449176,
+        "redstring:zoomLevel": 0.49526619653470527,
         "redstring:instances": {
           "98aac744-1038-4a3d-af25-50810100f605": {
             "@type": "redstring:Instance",
@@ -743,8 +743,8 @@
               "@id": "urn:uuid:3ae7173f-ee8d-48a3-bb2a-c809aa58f374"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -1314.5651373012734,
-              "redstring:yCoordinate": -525.3996922422302,
+              "redstring:xCoordinate": -1284.2783943235554,
+              "redstring:yCoordinate": -515.3041112496503,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -860,15 +860,15 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191792725,
+        "computedAt": 1782191824812,
         "truncated": false
       }
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "nodes": {
         "98aac744-1038-4a3d-af25-50810100f605": {
-          "x": -1314.5651373012734,
-          "y": -525.3996922422302,
+          "x": -1284.2783943235554,
+          "y": -515.3041112496503,
           "scale": 1,
           "prototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
         },
@@ -883,16 +883,16 @@
         "nodeCount": 2,
         "edgeCount": 1,
         "boundingBox": {
-          "minX": -1314.5651373012734,
+          "minX": -1284.2783943235554,
           "minY": -535.2457964157948,
           "maxX": -625.1166006915416,
-          "maxY": -525.3996922422302
+          "maxY": -515.3041112496503
         },
         "centroid": {
-          "x": -969.8408689964075,
-          "y": -530.3227443290125
+          "x": -954.6974975075485,
+          "y": -525.2749538327225
         },
-        "computedAt": 1782191792725,
+        "computedAt": 1782191824812,
         "truncated": false
       }
     }
@@ -910,7 +910,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191792726
+      "computedAt": 1782191824812
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
@@ -944,7 +944,7 @@
         }
       ],
       "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy John’s [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (1 total):\n- Jimmy John’s → Jersey Mike’s (base-connection-prototype)",
-      "computedAt": 1782191792726
+      "computedAt": 1782191824812
     }
   }
 }
