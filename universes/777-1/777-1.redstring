@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T22:25:01.308Z",
-    "modified": "2026-06-24T22:25:01.308Z",
+    "created": "2026-06-24T22:25:11.316Z",
+    "modified": "2026-06-24T22:25:11.316Z",
     "title": "New Thinee",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:25:01.308Z"
+          "redstring:lastViewed": "2026-06-24T22:25:11.315Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:25:01.308Z"
+          "redstring:lastViewed": "2026-06-24T22:25:11.315Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -426,7 +426,50 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:25:01.308Z"
+          "redstring:lastViewed": "2026-06-24T22:25:11.315Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "0d829a8f-81f7-4c18-98b6-2861afb38944": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:0d829a8f-81f7-4c18-98b6-2861afb38944",
+        "rdfs:label": "E",
+        "rdfs:comment": "",
+        "skos:prefLabel": "E",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "E",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:base-thing-prototype"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-06-24T22:25:11.315Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -450,10 +493,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -9883.932915958443,
-          "y": -9907.816038136722
+          "x": -23670.096855315576,
+          "y": -23570.698359575625
         },
-        "redstring:zoomLevel": 0.19817183564109153,
+        "redstring:zoomLevel": 0.47191253286819757,
         "redstring:instances": {
           "c7226073-a4f0-425f-842f-ca2cdc7dabe9": {
             "@type": "redstring:Instance",
@@ -509,8 +552,8 @@
               "@id": "urn:uuid:ef26fd40-bd99-4936-80d3-2645ce5f1a01"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 421.2417267102064,
-              "redstring:yCoordinate": 521.3438325676398,
+              "redstring:xCoordinate": 490.59202035119233,
+              "redstring:yCoordinate": 89.02014180930564,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -536,11 +579,33 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49803.5,
-          "y": -49667.5
+          "x": -18630.852424473174,
+          "y": -18585.622925261243
         },
-        "redstring:zoomLevel": 1,
-        "redstring:instances": {},
+        "redstring:zoomLevel": 0.376426225356661,
+        "redstring:instances": {
+          "ec041f6d-3337-4612-a710-e83cb2cbc868": {
+            "@type": "redstring:Instance",
+            "@id": "urn:uuid:ec041f6d-3337-4612-a710-e83cb2cbc868",
+            "rdf:type": {
+              "@id": "urn:uuid:0d829a8f-81f7-4c18-98b6-2861afb38944"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:uuid:eb41e1c4-be64-4ece-9294-2ef8175c6927"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 91.1445256128718,
+              "redstring:yCoordinate": -127.09791175585997,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "0d829a8f-81f7-4c18-98b6-2861afb38944",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -589,7 +654,8 @@
     "redstring:savedNodeIds": [
       "base-thing-prototype",
       "84c12971-fdd8-4e54-a490-665f545d3aa6",
-      "86530aac-4315-49e2-af60-3fab7c35b486"
+      "86530aac-4315-49e2-af60-3fab7c35b486",
+      "0d829a8f-81f7-4c18-98b6-2861afb38944"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true
@@ -610,8 +676,8 @@
           "prototypeId": "base-thing-prototype"
         },
         "117d5043-d36d-475d-aaf3-3bc331be0cec": {
-          "x": 421.2417267102064,
-          "y": 521.3438325676398,
+          "x": 490.59202035119233,
+          "y": 89.02014180930564,
           "scale": 1,
           "prototypeId": "86530aac-4315-49e2-af60-3fab7c35b486"
         }
@@ -621,26 +687,41 @@
         "edgeCount": 0,
         "boundingBox": {
           "minX": 360.95575394987236,
-          "minY": 521.3438325676398,
+          "minY": 89.02014180930564,
           "maxX": 1287.2547130556923,
           "maxY": 1052.0010346848649
         },
         "centroid": {
-          "x": 689.817397905257,
-          "y": 767.3483731230348
+          "x": 712.9341624522523,
+          "y": 623.24047620359
         },
-        "computedAt": 1782339901308,
+        "computedAt": 1782339911315,
         "truncated": false
       }
     },
     "eb41e1c4-be64-4ece-9294-2ef8175c6927": {
-      "nodes": {},
+      "nodes": {
+        "ec041f6d-3337-4612-a710-e83cb2cbc868": {
+          "x": 91.1445256128718,
+          "y": -127.09791175585997,
+          "scale": 1,
+          "prototypeId": "0d829a8f-81f7-4c18-98b6-2861afb38944"
+        }
+      },
       "metadata": {
-        "nodeCount": 0,
+        "nodeCount": 1,
         "edgeCount": 0,
-        "boundingBox": null,
-        "centroid": null,
-        "computedAt": 1782339901308,
+        "boundingBox": {
+          "minX": 91.1445256128718,
+          "minY": -127.09791175585997,
+          "maxX": 91.1445256128718,
+          "maxY": -127.09791175585997
+        },
+        "centroid": {
+          "x": 91.1445256128718,
+          "y": -127.09791175585997
+        },
+        "computedAt": 1782339911315,
         "truncated": false
       }
     }
@@ -674,21 +755,27 @@
       ],
       "edges": [],
       "text": "Graph: New Thinee (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (3 total):\n- New Thinee [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n- Thing [7a32716d-e9b9-45a4-b952-b6b9850ac006]\n- Aa [117d5043-d36d-475d-aaf3-3bc331be0cec]\n\nEdges (0 total):",
-      "computedAt": 1782339901308
+      "computedAt": 1782339911316
     },
     "eb41e1c4-be64-4ece-9294-2ef8175c6927": {
       "id": "eb41e1c4-be64-4ece-9294-2ef8175c6927",
       "name": "Aa",
       "description": "",
-      "nodeCount": 0,
+      "nodeCount": 1,
       "edgeCount": 0,
       "density": 0,
-      "quality": "empty",
-      "score": 0,
-      "nodes": [],
+      "quality": "single",
+      "score": 10,
+      "nodes": [
+        {
+          "id": "ec041f6d-3337-4612-a710-e83cb2cbc868",
+          "prototypeId": "0d829a8f-81f7-4c18-98b6-2861afb38944",
+          "name": "E"
+        }
+      ],
       "edges": [],
-      "text": "Graph: Aa (eb41e1c4-be64-4ece-9294-2ef8175c6927)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782339901308
+      "text": "Graph: Aa (eb41e1c4-be64-4ece-9294-2ef8175c6927)\nNodes (1 total):\n- E [ec041f6d-3337-4612-a710-e83cb2cbc868]\n\nEdges (0 total):",
+      "computedAt": 1782339911316
     }
   }
 }
