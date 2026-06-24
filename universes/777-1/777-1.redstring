@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T18:12:04.351Z",
-    "modified": "2026-06-24T18:12:04.351Z",
+    "created": "2026-06-24T20:07:23.979Z",
+    "modified": "2026-06-24T20:07:23.979Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -308,11 +308,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:12:04.350Z"
+          "redstring:lastViewed": "2026-06-24T20:07:23.979Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -355,11 +354,10 @@
         "redstring:definitionGraphIds": [
           "ef26fd40-bd99-4936-80d3-2645ce5f1a01"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:12:04.350Z"
+          "redstring:lastViewed": "2026-06-24T20:07:23.979Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -426,7 +424,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:12:04.350Z"
+          "redstring:lastViewed": "2026-06-24T20:07:23.979Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -545,7 +543,7 @@
           "x": -1142.1856532308288,
           "y": 39.451422623184044
         },
-        "computedAt": 1782324724350,
+        "computedAt": 1782331643979,
         "truncated": false
       }
     }
@@ -569,7 +567,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (1 total):\n- New Thing [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n\nEdges (0 total):",
-      "computedAt": 1782324724351
+      "computedAt": 1782331643979
     }
   }
 }
