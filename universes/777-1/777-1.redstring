@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T18:10:22.600Z",
-    "modified": "2026-06-24T18:10:22.600Z",
+    "created": "2026-06-24T18:10:27.601Z",
+    "modified": "2026-06-24T18:10:27.601Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:10:22.600Z"
+          "redstring:lastViewed": "2026-06-24T18:10:27.600Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -334,7 +334,11 @@
         },
         "name": "New Thing",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
@@ -355,11 +359,31 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:10:22.600Z"
+          "redstring:lastViewed": "2026-06-24T18:10:27.600Z"
         },
-        "redstring:abstractionChains": {},
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "84c12971-fdd8-4e54-a490-665f545d3aa6"
+          ]
+        },
         "redstring:agentConfig": null,
-        "redstring:semanticMetadata": null
+        "redstring:semanticMetadata": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "skos:exactMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/New_Thing"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/New_Thing"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q16998778"
+          }
+        ]
       }
     }
   },
@@ -379,10 +403,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -30282.575247438097,
-          "y": -30165.38240637332
+          "x": -24828.25,
+          "y": -24743.75
         },
-        "redstring:zoomLevel": 0.6095398398616657,
+        "redstring:zoomLevel": 0.5,
         "redstring:instances": {
           "c7226073-a4f0-425f-842f-ca2cdc7dabe9": {
             "@type": "redstring:Instance",
@@ -473,7 +497,7 @@
           "x": -61.07280304431916,
           "y": -30.5
         },
-        "computedAt": 1782324622600,
+        "computedAt": 1782324627600,
         "truncated": false
       }
     }
@@ -497,7 +521,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (1 total):\n- New Thing [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n\nEdges (0 total):",
-      "computedAt": 1782324622600
+      "computedAt": 1782324627601
     }
   }
 }
