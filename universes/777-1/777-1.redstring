@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T18:10:27.601Z",
-    "modified": "2026-06-24T18:10:27.601Z",
+    "created": "2026-06-24T18:10:32.601Z",
+    "modified": "2026-06-24T18:10:32.601Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:10:27.600Z"
+          "redstring:lastViewed": "2026-06-24T18:10:32.600Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -359,10 +359,11 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T18:10:27.600Z"
+          "redstring:lastViewed": "2026-06-24T18:10:32.600Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
+            "86530aac-4315-49e2-af60-3fab7c35b486",
             "84c12971-fdd8-4e54-a490-665f545d3aa6"
           ]
         },
@@ -383,7 +384,53 @@
           {
             "@id": "http://www.wikidata.org/entity/Q16998778"
           }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:uuid:86530aac-4315-49e2-af60-3fab7c35b486"
+          }
         ]
+      },
+      "86530aac-4315-49e2-af60-3fab7c35b486": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:86530aac-4315-49e2-af60-3fab7c35b486",
+        "rdfs:label": "Aa",
+        "skos:prefLabel": "Aa",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Aa",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:base-thing-prototype"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-06-24T18:10:32.600Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
       }
     }
   },
@@ -469,7 +516,8 @@
     ],
     "redstring:savedNodeIds": [
       "base-thing-prototype",
-      "84c12971-fdd8-4e54-a490-665f545d3aa6"
+      "84c12971-fdd8-4e54-a490-665f545d3aa6",
+      "86530aac-4315-49e2-af60-3fab7c35b486"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true
@@ -497,7 +545,7 @@
           "x": -61.07280304431916,
           "y": -30.5
         },
-        "computedAt": 1782324627600,
+        "computedAt": 1782324632601,
         "truncated": false
       }
     }
@@ -521,7 +569,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (1 total):\n- New Thing [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n\nEdges (0 total):",
-      "computedAt": 1782324627601
+      "computedAt": 1782324632601
     }
   }
 }
