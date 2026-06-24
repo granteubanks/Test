@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-23T05:17:04.812Z",
-    "modified": "2026-06-23T05:17:04.812Z",
+    "created": "2026-06-24T06:21:39.545Z",
+    "modified": "2026-06-24T06:21:39.545Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -515,11 +515,10 @@
         "redstring:definitionGraphIds": [
           "3ae7173f-ee8d-48a3-bb2a-c809aa58f374"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -558,8 +557,6 @@
         },
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000",
-          "redstring:imageSrc": null,
-          "redstring:thumbnailSrc": null,
           "redstring:imageAspectRatio": 1
         },
         "redstring:definitionGraphIds": [],
@@ -567,9 +564,14 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
-        "redstring:abstractionChains": {},
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "d0756f4b-1fa3-4aa6-a9ab-311ef87a9626",
+            "fc7a5771-e30e-4fb2-993c-bf783c4142d0"
+          ]
+        },
         "redstring:agentConfig": null,
         "redstring:semanticMetadata": {
           "wikipediaThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Jimmy_John%27s_%28logo%29.svg/960px-Jimmy_John%27s_%28logo%29.svg.png",
@@ -581,6 +583,11 @@
         "skos:exactMatch": [
           {
             "@id": "https://en.wikipedia.org/wiki/Jimmy_John's"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:uuid:d0756f4b-1fa3-4aa6-a9ab-311ef87a9626"
           }
         ]
       },
@@ -617,8 +624,6 @@
         },
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000",
-          "redstring:imageSrc": null,
-          "redstring:thumbnailSrc": null,
           "redstring:imageAspectRatio": 0.728
         },
         "redstring:definitionGraphIds": [],
@@ -626,7 +631,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -674,11 +679,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-23T05:17:04.811Z"
+          "redstring:lastViewed": "2026-06-24T06:21:39.544Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -793,8 +797,7 @@
             },
             "rdfStatements": null,
             "sourcePrototypeId": "fc7a5771-e30e-4fb2-993c-bf783c4142d0",
-            "destinationPrototypeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e",
-            "predicatePrototypeId": null
+            "destinationPrototypeId": "09477467-ff71-43e5-9bc8-49b4a2cee46e"
           }
         }
       }
@@ -860,7 +863,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782191824812,
+        "computedAt": 1782282099545,
         "truncated": false
       }
     },
@@ -892,7 +895,7 @@
           "x": -954.6974975075485,
           "y": -525.2749538327225
         },
-        "computedAt": 1782191824812,
+        "computedAt": 1782282099545,
         "truncated": false
       }
     }
@@ -910,7 +913,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782191824812
+      "computedAt": 1782282099545
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
@@ -944,7 +947,7 @@
         }
       ],
       "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy John’s [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (1 total):\n- Jimmy John’s → Jersey Mike’s (base-connection-prototype)",
-      "computedAt": 1782191824812
+      "computedAt": 1782282099545
     }
   }
 }
