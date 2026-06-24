@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T22:26:37.338Z",
-    "modified": "2026-06-24T22:26:37.338Z",
+    "created": "2026-06-24T22:40:54.655Z",
+    "modified": "2026-06-24T22:40:54.655Z",
     "title": "New Thinee",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:26:37.338Z"
+          "redstring:lastViewed": "2026-06-24T22:40:54.655Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:26:37.338Z"
+          "redstring:lastViewed": "2026-06-24T22:40:54.655Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -426,7 +426,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:26:37.338Z"
+          "redstring:lastViewed": "2026-06-24T22:40:54.655Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -469,7 +469,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T22:26:37.338Z"
+          "redstring:lastViewed": "2026-06-24T22:40:54.655Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -493,10 +493,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -12060.244444634443,
-          "y": -11892.697703101525
+          "x": -27767.465157403833,
+          "y": -27391.320377835105
         },
-        "redstring:zoomLevel": 0.24125807246187625,
+        "redstring:zoomLevel": 0.5531547019697621,
         "redstring:instances": {
           "c7226073-a4f0-425f-842f-ca2cdc7dabe9": {
             "@type": "redstring:Instance",
@@ -695,7 +695,7 @@
           "x": 670.9984684287027,
           "y": 487.58792624614097
         },
-        "computedAt": 1782339997338,
+        "computedAt": 1782340854655,
         "truncated": false
       }
     },
@@ -721,7 +721,7 @@
           "x": 91.1445256128718,
           "y": -127.09791175585997
         },
-        "computedAt": 1782339997338,
+        "computedAt": 1782340854655,
         "truncated": false
       }
     }
@@ -755,7 +755,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thinee (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (3 total):\n- New Thinee [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n- Thing [7a32716d-e9b9-45a4-b952-b6b9850ac006]\n- Aa [117d5043-d36d-475d-aaf3-3bc331be0cec]\n\nEdges (0 total):",
-      "computedAt": 1782339997338
+      "computedAt": 1782340854655
     },
     "eb41e1c4-be64-4ece-9294-2ef8175c6927": {
       "id": "eb41e1c4-be64-4ece-9294-2ef8175c6927",
@@ -775,7 +775,7 @@
       ],
       "edges": [],
       "text": "Graph: Aa (eb41e1c4-be64-4ece-9294-2ef8175c6927)\nNodes (1 total):\n- E [ec041f6d-3337-4612-a710-e83cb2cbc868]\n\nEdges (0 total):",
-      "computedAt": 1782339997338
+      "computedAt": 1782340854655
     }
   }
 }
