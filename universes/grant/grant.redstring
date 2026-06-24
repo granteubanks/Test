@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T06:22:33.610Z",
-    "modified": "2026-06-24T06:22:33.610Z",
+    "created": "2026-06-24T06:22:38.429Z",
+    "modified": "2026-06-24T06:22:38.429Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -476,7 +476,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -518,7 +518,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -564,7 +564,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -625,7 +625,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -676,7 +676,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T06:22:33.609Z"
+          "redstring:lastViewed": "2026-06-24T06:22:38.429Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -724,10 +724,10 @@
           "c122c179-7235-4a1a-88ee-6893488222e3"
         ],
         "redstring:panOffset": {
-          "x": -24236.360802838222,
-          "y": -24568.847944375175
+          "x": -19842.638011333816,
+          "y": -20074.65604195934
         },
-        "redstring:zoomLevel": 0.5,
+        "redstring:zoomLevel": 0.4094760537748603,
         "redstring:instances": {
           "98aac744-1038-4a3d-af25-50810100f605": {
             "@type": "redstring:Instance",
@@ -857,7 +857,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1782282153609,
+        "computedAt": 1782282158429,
         "truncated": false
       }
     },
@@ -889,7 +889,7 @@
           "x": -954.6974975075485,
           "y": -525.2749538327225
         },
-        "computedAt": 1782282153610,
+        "computedAt": 1782282158429,
         "truncated": false
       }
     }
@@ -907,7 +907,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Africa ‘n ‘em (bb587d5e-786c-4855-b137-f4fe8ecf9816)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1782282153610
+      "computedAt": 1782282158429
     },
     "3ae7173f-ee8d-48a3-bb2a-c809aa58f374": {
       "id": "3ae7173f-ee8d-48a3-bb2a-c809aa58f374",
@@ -941,7 +941,7 @@
         }
       ],
       "text": "Graph: New Thing (3ae7173f-ee8d-48a3-bb2a-c809aa58f374)\nNodes (2 total):\n- Jimmy John’s [98aac744-1038-4a3d-af25-50810100f605]\n- Jersey Mike’s [6377c480-2813-4fc4-8fee-1824577f9760]\n\nEdges (1 total):\n- Jimmy John’s → Jersey Mike’s (base-connection-prototype)",
-      "computedAt": 1782282153610
+      "computedAt": 1782282158429
     }
   }
 }
