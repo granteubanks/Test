@@ -249,8 +249,8 @@
   "format": "redstring-v4.0.0",
   "metadata": {
     "version": "4.0.0",
-    "created": "2026-06-24T20:07:48.986Z",
-    "modified": "2026-06-24T20:07:48.986Z",
+    "created": "2026-06-24T20:07:55.657Z",
+    "modified": "2026-06-24T20:07:55.657Z",
     "title": "New Thinee",
     "description": "",
     "domain": null,
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T20:07:48.986Z"
+          "redstring:lastViewed": "2026-06-24T20:07:55.656Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -357,7 +357,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T20:07:48.986Z"
+          "redstring:lastViewed": "2026-06-24T20:07:55.656Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -424,7 +424,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-06-24T20:07:48.986Z"
+          "redstring:lastViewed": "2026-06-24T20:07:55.656Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -448,10 +448,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -12478.232214121497,
-          "y": -12473.03691572619
+          "x": -25692.53880226728,
+          "y": -25840.424481905393
         },
-        "redstring:zoomLevel": 0.24952793648512167,
+        "redstring:zoomLevel": 0.5121648944639045,
         "redstring:instances": {
           "c7226073-a4f0-425f-842f-ca2cdc7dabe9": {
             "@type": "redstring:Instance",
@@ -576,7 +576,7 @@
           "x": 664.9676393268826,
           "y": 725.3591921846346
         },
-        "computedAt": 1782331668986,
+        "computedAt": 1782331675657,
         "truncated": false
       }
     }
@@ -605,7 +605,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thinee (ef26fd40-bd99-4936-80d3-2645ce5f1a01)\nNodes (2 total):\n- New Thinee [c7226073-a4f0-425f-842f-ca2cdc7dabe9]\n- Thing [7a32716d-e9b9-45a4-b952-b6b9850ac006]\n\nEdges (0 total):",
-      "computedAt": 1782331668986
+      "computedAt": 1782331675657
     }
   }
 }
